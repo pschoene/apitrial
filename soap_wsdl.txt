@@ -1,0 +1,4 @@
+http://www.swanandmokashi.com/Homepage/Webservices/QuoteOfTheDay.asmx?WSDL
+
+
+http://www.dneonline.com/calculator.asmx?WSDL
